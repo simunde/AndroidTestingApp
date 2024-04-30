@@ -1,1 +1,1 @@
-# Created app for Android Unit Testing
+# Created an app for Android Unit Testing
